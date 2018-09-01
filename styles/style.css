@@ -53,7 +53,7 @@ a{
     margin: 10px;
 }
 .active{
-    color: red;
+    color: darkred;
 }
 .container{
     float: right;
